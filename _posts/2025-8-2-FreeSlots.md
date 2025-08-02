@@ -1,4 +1,4 @@
-# **Google Apps Script Add-in Publication Policy**
+## **Google Apps Script Add-in Publication Policy**
 
 ### **Add-in Name**
 
