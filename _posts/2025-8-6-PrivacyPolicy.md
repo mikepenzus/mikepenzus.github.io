@@ -1,3 +1,8 @@
+---
+layout: post
+title: FreeSlots — Privacy Policy
+---
+
 ## FreeSlots — Privacy Policy
 FreeSlots use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
 The idea behind this Google Sheets add-on is to scan the default Google Calendar of the user of a Google Sheets document and list it down in the current Google sheet.
