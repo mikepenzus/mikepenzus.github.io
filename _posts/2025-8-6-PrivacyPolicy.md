@@ -19,4 +19,4 @@ The add-on will make use of the following scopes:
 
 ### Contact
 Michele Penzo - all modes of contact can be found here
-email: mikeautobot88@gmail.com
+email: [mikeautobot88@gmail.com](mailto:mikeautobot88@gmail.com)
