@@ -23,4 +23,4 @@ a more detailed explanation of what these scopes make use of can be found in the
 
 ### contact
 Michele Penzo - all modes of contact can be found here
-email: code@gmail.com
+email: mikeautobot88@gmail.com
