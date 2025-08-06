@@ -11,12 +11,11 @@ The idea behind this Google Sheets add-on is to scan the default Google Calendar
 - stores the slots in tabular form in the current sheet where the add-on is deployed
 
 ### Scopes
-The add-on will make use of a following scopes -
-https://www.googleapis.com/auth/spreadsheets.currentonly — this scope will be used to A) read the sheet id which will in-turn be used to create a container-bound apps script project using this endpoint B) store, update & retrieve document and script related data in the properties services
-https://www.googleapis.com/auth/script.external_request — this scope will be used to A) make API requests to the apps script rest apis that will help create, update and deploy a container-bound apps script project and B) to fetch open-source code that can be used to update the newly created container-bound apps script project
-https://www.googleapis.com/auth/script.projects — this scope will be used to create, update and deploy a container-bound apps script project using this endpoint
-https://www.googleapis.com/auth/script.deployments — this scope will be used to deploy the script as a web-app using this endpoint, which will in turn be used as a webhook to receive and log incoming data from external services
-a more detailed explanation of what these scopes make use of can be found in the images displayed here.
+The add-on will make use of the following scopes:
+- https://www.googleapis.com/auth/spreadsheets - See, edit, create, and delete all your Google Sheets spreadsheets
+- https://www.googleapis.com/auth/script.container.ui - Display and run third-party web content in prompts and sidebars inside Google applications	
+- https://www.googleapis.com/auth/userinfo.email - See your primary Google Account email address	
+- https://www.googleapis.com/auth/calendar - See, edit, share, and permanently delete all the calendars you can access using Google Calendar	
 
 ### Contact
 Michele Penzo - all modes of contact can be found here
