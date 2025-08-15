@@ -1,4 +1,9 @@
-## Post-install tips
+---
+layout: post
+title: FreeSlots - Post-install tips
+---
+
+## FreeSlots - Post-install tips
 After you have installed FreeSlots, a menu called "FreeSlots" will appear in the menu bar.
 If you open this menu, you can:
 * Ask for the first 1-hour free slots in the next 7/14/21/28 days (incl. the current day)
