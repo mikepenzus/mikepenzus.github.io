@@ -13,7 +13,7 @@ FreeSlots
 
 This add-in is developed using Google Apps Script to extend the functionality of Google Sheets. 
 
-Its goal is to retrieve free slots from our personal Google Calendar and display on the first tab of the current Google Sheet.
+Its goal is to retrieve free slots from your personal Google Calendar and display on the first tab of the current Google Sheet.
 
 It is offered as a free and optional tool for all users who wish to enhance their productivity without any costs or obligations.
 
