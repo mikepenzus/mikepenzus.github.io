@@ -38,7 +38,7 @@ It is offered as a free and optional tool for all users who wish to enhance thei
 6. Updates
     - Updates will be published to improve performance, fix bugs, or extend functionality, without introducing fees or additional obligations.
 7. Intellectual Property
-    - The source code is the intellectual property of Michele Penzo, and is provided under [MIT license](/LICENSE).
+    - The source code is the intellectual property of Michele Penzo, and is provided under [MIT license](License).
 8. Liability
     - Michele Penzo is not liable for any damages or data loss arising from the use of this add-on. Users install and use it at their own discretion.
 9. Advertising
