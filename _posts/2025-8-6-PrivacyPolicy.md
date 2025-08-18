@@ -23,5 +23,4 @@ The add-on will make use of the following scopes:
 - https://www.googleapis.com/auth/calendar - See, edit, share, and permanently delete all the calendars you can access using Google Calendar &trade;	
 
 ### Contact
-Michele Penzo - all modes of contact can be found here
-email: [mikeautobot88@gmail.com](mailto:mikeautobot88@gmail.com)
+Michele Penzo - Please contact me by sending an email to: [mikeautobot88@gmail.com](mailto:mikeautobot88@gmail.com)
