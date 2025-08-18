@@ -34,7 +34,7 @@ It is offered as a free and optional tool for all users who wish to enhance thei
     - No permissions are used for advertising, tracking, or analytics.
 5. Support and Maintenance
     - The add-in is provided “as is” without any formal guarantee of support, availability, or maintenance.
-    - Users may report bugs or suggest improvements via .
+    - Users may report bugs or suggest improvements via email to: [mikeautobot88@gmail.com](mailto:mikeautobot88@gmail.com).
 6. Updates
     - Updates will be published to improve performance, fix bugs, or extend functionality, without introducing fees or additional obligations.
 7. Intellectual Property
