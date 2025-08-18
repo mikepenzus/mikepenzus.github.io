@@ -4,7 +4,8 @@ title: FreeSlots - Post-install tips
 ---
 
 ## FreeSlots - Post-install tips
-After you have installed FreeSlots in your Google Sheets &trade; sheet, a menu called "FreeSlots" will appear in the menu bar.
+FreeSlots is an add-on that works for Google Sheets &trade;
+After you have installed FreeSlots in your sheet, a menu called "FreeSlots" will appear in the menu bar.
 If you open this menu, you can:
 * Ask for the first 1-hour free slots in the next 7/14/21/28 days (incl. the current day)
   or
