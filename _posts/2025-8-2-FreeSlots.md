@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FreeSlots - Add-on Publication Policy
+title: FreeSlots - Google Apps &trade; script - Add-on Publication Policy
 ---
 
-## FreeSlots - Google Apps Script :tm: Add-on Publication Policy
+## FreeSlots - Google Apps &trade; script - Add-on Publication Policy
 
 ### Add-in Name
 
@@ -11,9 +11,9 @@ FreeSlots
 
 ### Description
 
-This add-in is developed using Google Apps Script :tm: to extend the functionality of Google Sheets :tm: . 
+This add-in is developed using Google Apps &trade; to extend the functionality of Google Sheets &trade; . 
 
-Its goal is to retrieve free slots from your personal Google Calendar :tm: and display on the first tab of the current Google Sheet :tm: .
+Its goal is to retrieve free slots from your personal Google Calendar &trade; and display on the first tab of the current Google Sheets &trade; sheet.
 
 It is offered as a free and optional tool for all users who wish to enhance their productivity without any costs or obligations.
 
@@ -25,23 +25,23 @@ It is offered as a free and optional tool for all users who wish to enhance thei
     - This add-in is provided free of charge. Users will not be asked to pay for installation, activation, or continued use.
     - There are no in-app purchases, subscriptions, or premium upgrade options.
 2. Obligations
-    - Users are not obligated to register, create an account, or provide personal data beyond what is required by Google Workspace :tm: to authorize and install the add-in.
+    - Users are not obligated to register, create an account, or provide personal data beyond what is required by Google Workspace &trade; to authorize and install the add-in.
 3. Data Privacy
     - The add-in does not collect, store, or transmit any personal data to external servers beyond what is required for its functional operation within the user's spreadsheet.
-    - All processing is performed within the user's Google Sheets :tm: environment, unless explicitly stated in the add-in documentation.
+    - All processing is performed within the user's Google Sheets &trade; environment, unless explicitly stated in the add-in documentation.
 4. Permissions
     - The add-in requests only the minimum necessary permissions to operate its described features.
     - No permissions are used for advertising, tracking, or analytics.
 5. Support and Maintenance
     - The add-in is provided “as is” without any formal guarantee of support, availability, or maintenance.
-    - Users may report bugs or suggest improvements via [your public GitHub repository/issues page or contact email].
+    - Users may report bugs or suggest improvements via .
 6. Updates
     - Updates will be published to improve performance, fix bugs, or extend functionality, without introducing fees or additional obligations.
 7. Intellectual Property
-    - The source code is the intellectual property of [Your Name or Organization], and is provided under [state your chosen license, e.g. MIT License, if you publish the source openly].
+    - The source code is the intellectual property of Michele Penzo, and is provided under .
 8. Liability
-    - [Your Name or Organization] is not liable for any damages or data loss arising from the use of this add-in. Users install and use it at their own discretion.
+    - Michele Penzo is not liable for any damages or data loss arising from the use of this add-in. Users install and use it at their own discretion.
 9. Advertising
     - The add-in does not contain advertising or promotional material.
 10. Compliance
-    - The add-in complies with Google :tm: ’s Add-on Policies and the Google Workspace Marketplace :tm: Program Policies.
+    - The add-in complies with Google Workspace &trade; ’s Add-on Policies and the Google Workspace &trade; Marketplace Program Policies.
