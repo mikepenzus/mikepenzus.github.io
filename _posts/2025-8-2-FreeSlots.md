@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FreeSlots - Google Apps Script :tm: Add-in Publication Policy
+title: FreeSlots - Add-on Publication Policy
 ---
 
-## FreeSlots - Google Apps Script :tm: Add-in Publication Policy
+## FreeSlots - Google Apps Script :tm: Add-on Publication Policy
 
 ### Add-in Name
 
