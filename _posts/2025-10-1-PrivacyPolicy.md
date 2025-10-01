@@ -17,10 +17,10 @@ The idea behind this add-on for Google Sheets &trade; is to scan the default use
 
 ### Scopes
 The add-on will make use of the following scopes:
-- https://www.googleapis.com/auth/spreadsheets.currentonly - See, edit, create, and delete only the spreadsheets for Google Sheets &trade; where the add-on is installed
-- https://www.googleapis.com/auth/script.container.ui - Display and run third-party web content in prompts and sidebars inside Google &trade; applications	
-- https://www.googleapis.com/auth/userinfo.email - See your primary Google &trade; Account email address
-- https://www.googleapis.com/auth/calendar - See, edit, share, and permanently delete all the calendars you can access using Google Calendar &trade;	
+- https://www.googleapis.com/auth/spreadsheets.currentonly - See, edit, create, and delete only the spreadsheets for Google Sheets &trade; where the add-on is installed.
+- https://www.googleapis.com/auth/script.container.ui - Display and run third-party web content in prompts and sidebars inside Google &trade; applications.	
+- https://www.googleapis.com/auth/userinfo.email - See your primary Google &trade; Account email address.
+- https://www.googleapis.com/auth/calendar - See, edit, share, and permanently delete all the calendars you can access using Google Calendar &trade; .
 
 ### Google user data used by FreeSlots
 FreeSlots uses the following data:
@@ -36,8 +36,10 @@ The add-on FreeSlots stores the default Google Calendar &trade; free slots insid
 The add-on FreeSlots doesn't share, transfer or disclose any Google user data with anybody else. 
 
 ### Data protection mechanisms for sensitive data
-
-
+The add-on FreeSlots doesn't retrieve any sensitive data, but only the following:
+- User's GMail &trade; address
+- User's default Google Calendar &trade;
+This data retrieved by the add-on FreeSlots is only available inside the user's current Google Sheets &trade; spreadsheet for her/his own usage only.
 
 ### Retention or deletion of Google user data
 The add-on FreeSlots stores the default Google Calendar &trade; free slots inside the user's current Google Sheets &trade; spreadsheet for her/his own usage only.
