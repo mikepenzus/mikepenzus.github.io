@@ -36,16 +36,18 @@ The add-on FreeSlots stores the default Google Calendar &trade; free slots insid
 The add-on FreeSlots doesn't share, transfer or disclose any Google user data with anybody else. 
 
 ### Data protection mechanisms for sensitive data
-The add-on FreeSlots doesn't retrieve any sensitive data, but only the following:
+The add-on FreeSlots retrieves only the following:
 - User's GMail &trade; address
 - User's default Google Calendar &trade;
-This data retrieved by the add-on FreeSlots is only available inside the user's current Google Sheets &trade; spreadsheet for her/his own usage only.
+No other sensitive data is retrieved.
+The data mentioned above is retrieved by the add-on FreeSlots and is made available only inside the user's current Google Sheets &trade; spreadsheet for her/his own usage only.
+There are no further data protection mechanisms for sensitive data.
 
 ### Retention or deletion of Google user data
 The add-on FreeSlots stores the default Google Calendar &trade; free slots inside the user's current Google Sheets &trade; spreadsheet for her/his own usage only.
 The add-on FreeSlots delete all the data from the current Google Sheets &trade; spreadsheet tab every time a new computation of the Google Calendar &trade; free slots is performed.
 The user of the current Google Sheets &trade; spreadsheet can autonomously delete the Google user data stored there by the add-on FreeSlots. 
-The user of the current Google Sheets &trade; spreadsheet can autonomously decide for how long to retain the Google user data stored there by the add-on FreeSlots as soon as she/he doesn't call the FreeSlots menu again, action which will delete the data in the current Google Sheets &trade; spreadsheet tab. 
+The user of the current Google Sheets &trade; spreadsheet can autonomously decide for how long to retain the Google user data stored there by the add-on FreeSlots as soon as she/he doesn't call any of the FreeSlots menu items again, action which will delete the data in the current Google Sheets &trade; spreadsheet tab. 
 
 
 ### Contact
